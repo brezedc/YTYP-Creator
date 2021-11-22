@@ -39,7 +39,8 @@ These are the default values that are going to be used when creating the ytyp.
 
 **Previews**
 
-[Video](https://gyazo.com/4e50a9d9ce10f9cc2bdbc8b26d6bd012)
+https://user-images.githubusercontent.com/39080460/142938699-882a04ca-dcea-4ffc-a40a-af4a1fc4fa16.mp4
+
 
 
 **Support**
