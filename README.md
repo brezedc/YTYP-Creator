@@ -1,11 +1,12 @@
 # YTYP Creator
 
 Ytyp Creator allows you to generate a ytyp item in seconds by dragging .ODR & . OBN files over it.
+
 Generates the following:
-- Flags 
-- Specialattributes
-- Bounding boxes
-- Embeded Collission & Model Names
+> - Flags 
+> - Specialattributes
+> - Bounding boxes
+> - Embeded Collission & Model Names
 
 Scroll down to the bottom of the page for a preview.
 
@@ -21,8 +22,8 @@ Scroll down to the bottom of the page for a preview.
 > 4. Installation Done!
 
 **Usage:**
-- Drag any `.ODR` / `.OBN` files over the `run.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
-- [Video](https://gyazo.com/4e50a9d9ce10f9cc2bdbc8b26d6bd012)
+> - Drag any `.ODR` / `.OBN` files over the `run.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
+> - [Video](https://gyazo.com/4e50a9d9ce10f9cc2bdbc8b26d6bd012)
 
 **Customization:**
 
@@ -33,6 +34,8 @@ You can configure the following settings in the [settings.json](https://pages.gi
 > - defaultFlag `default: 32`
 
 These are the default values that are going to be used when creating the ytyp.
+
+
 
 **Previews**
 
