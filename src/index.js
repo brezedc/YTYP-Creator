@@ -20,7 +20,7 @@ if(files.length > 0) {
                 let fileData = {
                     modelName: file.replace(/^.*[\\\/]/, '').slice(0, -4),
                     bounds: await getBounds(fileContent.split("\n")),
-                    isCollission: true,
+                    isCollission: false,
                 }
                 fileData.isDoor = fileData.modelName.includes("door");
 
