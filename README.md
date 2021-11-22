@@ -17,7 +17,7 @@ Scroll down to the bottom of the page for a preview.
 
 **Installation:**
 > 1. Download the latest release from [here](https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip).
-> 2. Right click the file and  unzip the file.
+> 2. Right click and unzip the file.
 > 3. Launch the `install.bat` file and wait for the **download to be finished**.
 > 4. Installation Done!
 
