@@ -8,8 +8,36 @@ Generates the following:
 > - Bounding boxes
 > - Embeded Collission & Model Names
 
+<details>
+  <summary>Example</summary>
+  <p>
+    
+  ```c#
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="500"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-3.42749000" y="-4.65485000" z="-1.90036200"/>
+      <bbMax x="3.42749000" y="4.65484600" z="1.90036200"/>
+      <bsCentre x="0.00000000" y="-0.00000190" z="0.00000000"/>
+      <bsRadius value="6.08495000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>coolfile</name>
+      <textureDictionary>coolfile</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary/>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>coolfile</assetName>
+      <extensions/>
+  </Item>
+ ```
+  </p>
+</details>
+ 
+ 
+ https://user-images.githubusercontent.com/39080460/142938750-ec7fe955-bdd4-45a3-bbab-52f4b739b57b.mp4
 
-https://user-images.githubusercontent.com/39080460/142938750-ec7fe955-bdd4-45a3-bbab-52f4b739b57b.mp4
 
 
 **Requirements**
