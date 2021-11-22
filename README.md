@@ -16,7 +16,7 @@ Scroll down to the bottom of the page for a preview.
 
 
 **Installation:**
-> 1. Download the latest release from https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip
+> 1. Download the latest release from [here](https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip).
 > 2. Right click the file and  unzip the file.
 > 3. Launch the `install.bat` file and wait for the **download to be finished**.
 > 4. Installation Done!
@@ -27,7 +27,7 @@ Scroll down to the bottom of the page for a preview.
 
 **Customization:**
 
-You can configure the following settings in the [settings.json](https://pages.github.com/) file:
+You can configure the following settings in the [settings.json](https://github.com/brezedc/YTYP-Creator/blob/main/settings.json) file:
 
 > - embededCollission `default: true`
 > - defaultLodDist `default: 500.0`
