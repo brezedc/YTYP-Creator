@@ -8,7 +8,9 @@ Generates the following:
 > - Bounding boxes
 > - Embeded Collission & Model Names
 
-Scroll down to the bottom of the page for a preview.
+
+https://user-images.githubusercontent.com/39080460/142938750-ec7fe955-bdd4-45a3-bbab-52f4b739b57b.mp4
+
 
 **Requirements**
 > - [Node.js](https://nodejs.org/en/)
@@ -34,13 +36,6 @@ You can configure the following settings in the [settings.json](https://github.c
 > - defaultFlag `default: 32`
 
 These are the default values that are going to be used when creating the ytyp.
-
-
-
-**Previews**
-
-https://user-images.githubusercontent.com/39080460/142938699-882a04ca-dcea-4ffc-a40a-af4a1fc4fa16.mp4
-
 
 
 **Support**
