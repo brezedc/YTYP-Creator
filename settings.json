@@ -1,5 +1,5 @@
 {
-    "embededCollission": false,
+    "embeddedColission": false,
     "defaultLodDist": 500.0,
     "defaultFlag": 32
 }
