@@ -29,7 +29,7 @@ Scroll down to the bottom of the page for a preview.
 
 You can configure the following settings in the [settings.json](https://github.com/brezedc/YTYP-Creator/blob/main/settings.json) file:
 
-> - embededCollission `default: true`
+> - embeddedColission `default: true`
 > - defaultLodDist `default: 500.0`
 > - defaultFlag `default: 32`
 
