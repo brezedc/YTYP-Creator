@@ -100,7 +100,7 @@ function generateYtyp(data) {
     <textureDictionary>${data.modelName}</textureDictionary>
     <clipDictionary/>
     <drawableDictionary/>
-    ${settings.embededCollission ? `<physicsDictionary>${data.modelName}</physicsDictionary>` : "<physicsDictionary/>"}
+    ${settings.embeddedColission ? `<physicsDictionary>${data.modelName}</physicsDictionary>` : "<physicsDictionary/>"}
     <assetType>${data.isCollission ? "ASSET_TYPE_ASSETLESS" : "ASSET_TYPE_DRAWABLE"}</assetType>
     <assetName>${data.modelName}</assetName>
     <extensions/>
