@@ -9,6 +9,11 @@ Generates the following:
 
 Scroll down to the bottom of the page for a preview.
 
+**Requirements**
+> - [Node.js](https://nodejs.org/en/)
+> - Windows 10 Or above
+
+
 **Installation:**
 > 1. Download the latest release from https://github.com/brezedc/YTYP-creator/linktodownmload
 > 2. Right click the file and  unzip the file.
