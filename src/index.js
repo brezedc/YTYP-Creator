@@ -97,7 +97,7 @@ function generateYtyp(data) {
     <bsRadius value="${bounds["Radius"][0]}"/>
     <hdTextureDist value="5.00000000"/>
     <name>${data.modelName}</name>
-    ${settings.textureDictionary ? `<textureDictionary>${data.textureDictionary}</textureDictionary>` : `<textureDictionary>${data.textureDictionary}</textureDictionary>`}
+    ${settings.textureDictionary ? `<textureDictionary>${data.textureDictionary}</textureDictionary>` : `<textureDictionary>${data.modelName}</textureDictionary>`}
     <clipDictionary/>
     <drawableDictionary/>
     ${settings.embeddedColission ? `<physicsDictionary>${data.modelName}</physicsDictionary>` : "<physicsDictionary/>"}
