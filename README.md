@@ -53,7 +53,7 @@ Generates the following:
 > 5. Installation Done!
 
 **Usage:**
-> - Drag any `.ODR` / `.OBN` files over the `run.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
+> - Drag any `.ODR` / `.OBN` files over the `DRAG_FILES_ON_ME.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
 > - [Video](https://gyazo.com/4e50a9d9ce10f9cc2bdbc8b26d6bd012)
 
 **Customization:**
