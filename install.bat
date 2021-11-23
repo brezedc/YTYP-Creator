@@ -17,9 +17,11 @@ IF "%NODE_VER%"=="%NULL_VAL%" (
 	echo After you have installed Node.js, press a key to shut down this process. The installer will then self delete
 	PAUSE
     IF EXIST "src" START "" /D src call npm install
+    DEL "%~f0"
 	EXIT
 ) ELSE (
 	echo Node.JS Is already installed ^(%NODE_VER%^) is installed. Proceeding...
     IF EXIST "src" START "" /D src call npm install
+    DEL "%~f0"
     EXIT
 )
