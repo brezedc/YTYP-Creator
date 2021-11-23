@@ -1,5 +1,6 @@
 {
     "embeddedColission": false,
     "defaultLodDist": 500.0,
-    "defaultFlag": 32
+    "defaultFlag": 32,
+    "textureDictionary": false
 }

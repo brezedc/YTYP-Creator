@@ -20,7 +20,7 @@ if(files.length > 0) {
                 let fileData = {
                     modelName: file.replace(/^.*[\\\/]/, '').slice(0, -4),
                     bounds: await getBounds(fileContent.split("\n")),
-                    isCollission: true,
+                    isCollission: false,
                 }
                 fileData.isDoor = fileData.modelName.includes("door");
 
@@ -97,7 +97,7 @@ function generateYtyp(data) {
     <bsRadius value="${bounds["Radius"][0]}"/>
     <hdTextureDist value="5.00000000"/>
     <name>${data.modelName}</name>
-    <textureDictionary>${data.modelName}</textureDictionary>
+    ${settings.textureDictionary ? `<textureDictionary>${data.textureDictionary}</textureDictionary>` : `<textureDictionary>${data.textureDictionary}</textureDictionary>`}
     <clipDictionary/>
     <drawableDictionary/>
     ${settings.embeddedColission ? `<physicsDictionary>${data.modelName}</physicsDictionary>` : "<physicsDictionary/>"}
