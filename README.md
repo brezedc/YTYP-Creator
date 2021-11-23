@@ -64,7 +64,7 @@ You can configure the following settings in the [settings.json](https://github.c
 > - embeddedColission `default: true`
 > - defaultLodDist `default: 500.0`
 > - defaultFlag `default: 32`
-> - textureDictionary `default: false` false = embedded textures, to set a specific texture dictonary, set "textureDictionary": "dictonaryName"
+> - textureDictionary `default: false` false = embedded textures, to set a specific texture dictonary, set `"textureDictionary": "dictonaryName"`
 
 These are the default values that are going to be used when creating the ytyp.
 
