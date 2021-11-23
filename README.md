@@ -46,10 +46,12 @@ Generates the following:
 
 
 **Installation:**
+
 > 1. Download the latest release from [here](https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip).
 > 2. Right click and unzip the file.
 > 3. Launch the `install.bat` file and wait for the **download to be finished**.
 > 4. . Installation Done!
+
 
 **Usage:**
 > - Drag any `.ODR` / `.OBN` files over the `DRAG_FILES_ON_ME.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
@@ -64,9 +66,7 @@ You can configure the following settings in the [settings.json](https://github.c
 > - defaultFlag `default: 32`
 > - textureDictionary `default: false` false = embedded textures, to set a specific texture dictonary, set "textureDictionary": "dictonaryName"
 
-
 These are the default values that are going to be used when creating the ytyp.
-
 
 **Support**
 For support, please join my [discord](https://breze.site) __or__ create a [issue](https://github.com/brezedc/YTYP-Creator/issues/new).
