@@ -46,10 +46,11 @@ Generates the following:
 
 
 **Installation:**
-> 1. Download the latest release from [here](https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip).
-> 2. Right click and unzip the file.
-> 3. Launch the `install.bat` file and wait for the **download to be finished**.
-> 4. Installation Done!
+> 1. Install Node.js from [Here](https://nodejs.org/en/)
+> 2. Download the latest release from [here](https://github.com/brezedc/YTYP-Creator/archive/refs/heads/main.zip).
+> 3. Right click and unzip the file.
+> 4. Launch the `install.bat` file and wait for the **download to be finished**.
+> 5. Installation Done!
 
 **Usage:**
 > - Drag any `.ODR` / `.OBN` files over the `run.bat` file, the console will be opened and closed and the ytyp will be copied to your clipboard.
